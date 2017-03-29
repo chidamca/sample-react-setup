@@ -4,7 +4,7 @@ import App from './App.jsx';
 
 
  
-ReactDOM.render(<App />, document.getElementById('app')),1000
+ReactDOM.render(<App />, document.getElementById('app'))
  
 
  
